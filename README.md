@@ -34,3 +34,6 @@ https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/?vari
 
 * raspberry pi console commands:   
 https://www.raspberrypi.org/documentation/linux/usage/commands.md
+
+* RaspberryPi defconfig files in Buildroot:   
+https://github.com/buildroot/buildroot/tree/master/board/raspberrypi
