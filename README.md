@@ -3,6 +3,7 @@ Using Buildroot for building Embedded Linux Systems on Raspberry Pi 4 Model B
 
 ##### Projects in this repository
 1- Simple OS for Raspberry pi 4:
+https://www.walidamriou.com/2019/11/usingBuildrootforbuildingafirstembeddedLinuxsystemforRPi4modelB.html
 
 
 ##### Specifications of Raspberry pi 4 model B
